@@ -1,0 +1,6 @@
+
+mon:6,day:21,time:8:29:47
+       item_num        exp_FPR     actual_FPR     actual_BBN   F_size(bits) space_cost(MB)      Q_time(s)      D_time(s)    C_rate
+     I_time0(s)     I_time1(s)     I_time2(s)     I_time3(s)     I_time4(s)     I_time5(s)     I_time6(s)     I_time7(s)     I_time8(s)     I_time9(s)    I_time10(s)    I_time11(s)
+            100         0.0005              0    -1855957064             56   1.35557e-312              0              01.35558e-312
+   6.95329e-310   1.20037e-312   6.95329e-310   9.38725e-323   2.34471e-310   3.58628e-315   1.35557e-312   2.34471e-310   5.60356e-317   1.18832e-312   1.35561e-312              0
