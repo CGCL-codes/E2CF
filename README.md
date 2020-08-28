@@ -1,5 +1,5 @@
 # E2CF: The Entry-Extensible Cuckoo Filter
-The entry-extensible cuckoo filter (E2CF) supports entry-level extension for dynamic set representation and accelerates the membership query. E2CF utilizes adjacent buckets with sequential physical addresses in a cuckoo filter to extend bucket entries, which avoids many discrete memory accesses in a query. To further make E2CF space and time efficient, we adopt asynchronous extension and fine-grained splitting methods. Experiment results show that compared to existing designs, E2CF reduces the query and insertion time by up to 82% and 28%, respectively.
+The entry-extensible cuckoo filter (E2CF) is an approximate set representation structure, which supports entry-level extension and fast membership query. E2CF utilizes adjacent buckets with sequential physical addresses in a cuckoo filter to extend bucket entries, which avoids many discrete memory accesses in a query. To further make E2CF space and time efficient, we adopt asynchronous extension and fine-grained splitting methods. Experiment results show that compared to existing designs, E2CF reduces the query and insertion time by up to 82% and 28%, respectively.
 
 ## How to use?
 ### Environment
