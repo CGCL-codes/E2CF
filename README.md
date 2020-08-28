@@ -39,4 +39,4 @@ Copyright (C) 2020, [STCS & CGCL](http://grid.hust.edu.cn/) and [Huazhong Univer
 
 If you want to know more detailed information, please refer to this paper:
 
-Shuiying Yu, Sijie Wu, Hanhua Chen, Hai Jin, "The Entry-Extensible Cuckoo Filter," Proceedings of The 17th Annual IFIP International Conference on Network and Parallel Computing (NPC 2020), Zhengzhou, Henan, China , Sept.28-30, 2020.
+Shuiying Yu, Sijie Wu, Hanhua Chen, Hai Jin, "The Entry-Extensible Cuckoo Filter" Proceedings of The 17th Annual IFIP International Conference on Network and Parallel Computing (NPC 2020), Zhengzhou, Henan, China , Sept.28-30, 2020.
