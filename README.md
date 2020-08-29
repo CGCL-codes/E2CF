@@ -35,8 +35,3 @@ E2CF is developed in Big Data Technology and System Lab, Services Computing Tech
 
 Copyright (C) 2020, [STCS & CGCL](http://grid.hust.edu.cn/) and [Huazhong University of Science and Technology](http://www.hust.edu.cn).
 
-## Publication
-
-If you want to know more detailed information, please refer to this paper:
-
-Shuiying Yu, Sijie Wu, Hanhua Chen, Hai Jin, "The Entry-Extensible Cuckoo Filter" Proceedings of The 17th Annual IFIP International Conference on Network and Parallel Computing (NPC 2020), Zhengzhou, Henan, China , Sept.28-30, 2020.
